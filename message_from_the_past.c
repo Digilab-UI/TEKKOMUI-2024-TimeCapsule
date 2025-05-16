@@ -8,8 +8,14 @@ int main() {
     printf("Kalau udah sukses jangan lupain aslab kalian ya :( \n");
     printf("ID Lines aslabs 23: \n CH: christianhadiwijaya \n DS: daffsf \n MF: macropp\n JD: jesayadavidp\n BH: bnhrd\n\n");
 
-     printf("From: Satrio Atalla R");
+    printf("From: Satrio Atalla R\n");
     printf("tetap semangat dan jangan menyerah AUUUU sigma");
+    int i = 0;
+    for (i; i<3; i++){
+    	printf("bitcoin 2030 20 miliar auuuuuuu");
+	}
+    
+    return 0;
 }
 
 
