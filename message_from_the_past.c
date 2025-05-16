@@ -10,5 +10,5 @@ int main()
     printf("ID Lines aslabs 23: \n CH: christianhadiwijaya \n DS: daffsf \n MF: macropp\n JD: jesayadavidp\n BH: bnhrd\n\n");
 
     printf("From: Ziehan");
-    printf("this is me before coding with coding documentation")
+    printf("thanks a lot for aslab atas bimbingannya selama semester 1 dan 2. ini ngebantu banget buat saya pribadi. semoga kedepannya para aslab sukses selalu. aamiin. anyway this is me before coding with coding documentation.")
 }
