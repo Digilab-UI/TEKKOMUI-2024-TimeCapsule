@@ -2,7 +2,7 @@
 
 int main() {
     printf("\033[1;34m");
-    printf("Written by Tekkom UI 2024\n");
+    printf("I hope one day you will find your passion in tekkom and know what you like\n");
     printf("\033[0m");
 
     printf("Kalau udah sukses jangan lupain aslab kalian ya :( \n");
