@@ -1,10 +1,8 @@
-#include <stdio.h>
+#include <stdio.h> //Abram Adrian TekKom 24
 
 int main() {
-    printf("\033[1;34m");
-    printf("Written by Tekkom UI 2024\n");
-    printf("\033[0m");
-
-    printf("Kalau udah sukses jangan lupain aslab kalian ya :( \n");
-    printf("ID Lines aslabs 23: \n CH: christianhadiwijaya \n DS: daffsf \n MF: macropp\n JD: jesayadavidp\n BH: bnhrd\n\n");
+    printf("Halo abang2 aslab, terima kasih atas bimbingannya selama menjalankan praktikum dari digilab. Kiranya semua ilmu ya abang2 berikan bermanfaat bagi kami kedepannya.");
+    printf("\nHarapannya, saya bisa lulus tepat waktu dan mendapatkan IPK yang memuaskan. Langsung bisa dapat pekerjaan dan bisa bantu orang tua, AMIINNN!!");
+return 0;
 }
+ 
