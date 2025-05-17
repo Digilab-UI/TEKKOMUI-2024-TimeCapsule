@@ -7,4 +7,6 @@ int main() {
 
     printf("Kalau udah sukses jangan lupain aslab kalian ya :( \n");
     printf("ID Lines aslabs 23: \n CH: christianhadiwijaya \n DS: daffsf \n MF: macropp\n JD: jesayadavidp\n BH: bnhrd\n\n");
+
+    printf("Makasi banyak aslab udah ngajarin byk hal dan ngebuat soal dari yg menyenangkan sampai yg ngga masuk di akal praktikkan.");
 }
