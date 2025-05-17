@@ -5,6 +5,6 @@ int main() {
     printf("Written by Tekkom UI 2024\n");
     printf("\033[0m");
 
-    printf("Kalau udah sukses jangan lupain aslab kalian ya :( \n");
-    printf("ID Lines aslabs 23: \n CH: christianhadiwijaya \n DS: daffsf \n MF: macropp\n JD: jesayadavidp\n BH: bnhrd\n\n");
+	printf("untuk tkom '24\n");
+	printf("kalian keren udh lulus, sukses selalu dan semoga hidupnya penuh berkah! :)");
 }
