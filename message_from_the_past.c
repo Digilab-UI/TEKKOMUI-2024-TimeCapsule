@@ -9,6 +9,6 @@ int main() {
     printf("ID Lines aslabs 23: \n CH: christianhadiwijaya \n DS: daffsf \n MF: macropp\n JD: jesayadavidp\n BH: bnhrd\n\n");
 
     printf("woy nonton liverpool langsung di anfield\n");
-    printf("ps. HIDUP ITU BERNAFAS\n\n");
+    printf("ps. HIDUP ITU BERNAFAS!\n\n");
 
 }
