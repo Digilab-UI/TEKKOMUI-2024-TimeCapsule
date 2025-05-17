@@ -9,5 +9,5 @@ int main() {
     printf("ID Lines aslabs 23: \n CH: christianhadiwijaya \n DS: daffsf \n MF: macropp\n JD: jesayadavidp\n BH: bnhrd\n\n");
 
     printf("From: anonim yang bernama Fahreza Purnomo\n");
-    printf("aku harap aku bisa lebih menikmati hidup di masa depan :)");
+    printf("aku harap aku bisa lebih menikmati hidup di masa depan :)\n");
 }
