@@ -7,4 +7,7 @@ int main() {
 
     printf("Kalau udah sukses jangan lupain aslab kalian ya :( \n");
     printf("ID Lines aslabs 23: \n CH: christianhadiwijaya \n DS: daffsf \n MF: macropp\n JD: jesayadavidp\n BH: bnhrd\n\n");
+    
+    printf("From: Camat");
+    printf("\n idk mo nulis apaan, smoga sukses selalo, banyak rezeki, bisa bangun usaha, kaya raya, dkk. Selamat berjumpa lagi");
 }
